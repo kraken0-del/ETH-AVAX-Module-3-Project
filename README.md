@@ -1,6 +1,6 @@
 # ETH + AVAX Module 3 Project
 
-The objective of this contract is to be able to write a smart contrct to create our own ERC20 token and deploy it using Remix. This will be submitted for the AVAX PROOF intermediate course assessment. This will show how to implement some functions.
+The objective of this contract is to be able to write a smart contract to create our own ERC20 token and deploy it using Remix. This will be submitted for the AVAX PROOF intermediate course assessment. This will show how to implement some functions.
 
 ## Description
 
