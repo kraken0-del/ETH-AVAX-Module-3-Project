@@ -6,7 +6,7 @@ The objective of this contract is to be able to write a smart contrct to create 
 
 This token contract offers functionalities for managing a custom ERC20 token on the Ethereum blockchain. Users can transfer and hold these tokens, similar to other ERC20 tokens. Additionally, the contract allows burning tokens (removing them from circulation) with access controls and enables the owner to mint new tokens.
 
-### Executing program
+# Executing program
 
 * To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 * Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., HelloWorld.sol). Copy and paste the following code into the file:
